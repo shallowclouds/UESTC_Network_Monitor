@@ -1,0 +1,5 @@
+[user]
+username = qaq
+password = qwq
+check_interval = 60
+pid_file = "connect.pid"
